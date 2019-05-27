@@ -1,0 +1,22 @@
+{
+  "name": "pag-seguro-learning",
+  "version": "1.0.0",
+  "description": "pag-seguro-learning",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielaraujorn/pag-seguro-learning.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danielaraujorn/pag-seguro-learning/issues"
+  },
+  "homepage": "https://github.com/danielaraujorn/pag-seguro-learning#readme",
+  "dependencies": {
+    "pagseguro": "^0.1.0"
+  }
+}
